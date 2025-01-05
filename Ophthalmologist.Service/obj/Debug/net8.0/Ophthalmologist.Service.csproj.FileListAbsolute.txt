@@ -1,0 +1,30 @@
+C:\Users\user1\Desktop\תכנות שנה ו\דוטנט-פרויקט\Ophthalmologist\Ophthalmologist.Service\bin\Debug\net8.0\Ophthalmologist.Service.deps.json
+C:\Users\user1\Desktop\תכנות שנה ו\דוטנט-פרויקט\Ophthalmologist\Ophthalmologist.Service\bin\Debug\net8.0\Ophthalmologist.Service.dll
+C:\Users\user1\Desktop\תכנות שנה ו\דוטנט-פרויקט\Ophthalmologist\Ophthalmologist.Service\bin\Debug\net8.0\Ophthalmologist.Service.pdb
+C:\Users\user1\Desktop\תכנות שנה ו\דוטנט-פרויקט\Ophthalmologist\Ophthalmologist.Service\bin\Debug\net8.0\Ophthalmologist.Core.dll
+C:\Users\user1\Desktop\תכנות שנה ו\דוטנט-פרויקט\Ophthalmologist\Ophthalmologist.Service\bin\Debug\net8.0\Ophthalmologist.Core.pdb
+C:\Users\user1\Desktop\תכנות שנה ו\דוטנט-פרויקט\Ophthalmologist\Ophthalmologist.Service\obj\Debug\net8.0\Ophthalmologist.Service.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\תכנות שנה ו\דוטנט-פרויקט\Ophthalmologist\Ophthalmologist.Service\obj\Debug\net8.0\Ophthalmologist.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\תכנות שנה ו\דוטנט-פרויקט\Ophthalmologist\Ophthalmologist.Service\obj\Debug\net8.0\Ophthalmologist.Service.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\תכנות שנה ו\דוטנט-פרויקט\Ophthalmologist\Ophthalmologist.Service\obj\Debug\net8.0\Ophthalmologist.Service.AssemblyInfo.cs
+C:\Users\user1\Desktop\תכנות שנה ו\דוטנט-פרויקט\Ophthalmologist\Ophthalmologist.Service\obj\Debug\net8.0\Ophthalmologist.Service.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\תכנות שנה ו\דוטנט-פרויקט\Ophthalmologist\Ophthalmologist.Service\obj\Debug\net8.0\Ophthalm.A318ACFF.Up2Date
+C:\Users\user1\Desktop\תכנות שנה ו\דוטנט-פרויקט\Ophthalmologist\Ophthalmologist.Service\obj\Debug\net8.0\Ophthalmologist.Service.dll
+C:\Users\user1\Desktop\תכנות שנה ו\דוטנט-פרויקט\Ophthalmologist\Ophthalmologist.Service\obj\Debug\net8.0\refint\Ophthalmologist.Service.dll
+C:\Users\user1\Desktop\תכנות שנה ו\דוטנט-פרויקט\Ophthalmologist\Ophthalmologist.Service\obj\Debug\net8.0\Ophthalmologist.Service.pdb
+C:\Users\user1\Desktop\תכנות שנה ו\דוטנט-פרויקט\Ophthalmologist\Ophthalmologist.Service\obj\Debug\net8.0\ref\Ophthalmologist.Service.dll
+C:\Users\user1\Desktop\project-dotnet\Ophthalmologist\Ophthalmologist.Service\bin\Debug\net8.0\Ophthalmologist.Service.deps.json
+C:\Users\user1\Desktop\project-dotnet\Ophthalmologist\Ophthalmologist.Service\bin\Debug\net8.0\Ophthalmologist.Service.dll
+C:\Users\user1\Desktop\project-dotnet\Ophthalmologist\Ophthalmologist.Service\bin\Debug\net8.0\Ophthalmologist.Service.pdb
+C:\Users\user1\Desktop\project-dotnet\Ophthalmologist\Ophthalmologist.Service\bin\Debug\net8.0\Ophthalmologist.Core.dll
+C:\Users\user1\Desktop\project-dotnet\Ophthalmologist\Ophthalmologist.Service\bin\Debug\net8.0\Ophthalmologist.Core.pdb
+C:\Users\user1\Desktop\project-dotnet\Ophthalmologist\Ophthalmologist.Service\obj\Debug\net8.0\Ophthalmologist.Service.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\project-dotnet\Ophthalmologist\Ophthalmologist.Service\obj\Debug\net8.0\Ophthalmologist.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\project-dotnet\Ophthalmologist\Ophthalmologist.Service\obj\Debug\net8.0\Ophthalmologist.Service.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\project-dotnet\Ophthalmologist\Ophthalmologist.Service\obj\Debug\net8.0\Ophthalmologist.Service.AssemblyInfo.cs
+C:\Users\user1\Desktop\project-dotnet\Ophthalmologist\Ophthalmologist.Service\obj\Debug\net8.0\Ophthalmologist.Service.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\project-dotnet\Ophthalmologist\Ophthalmologist.Service\obj\Debug\net8.0\Ophthalm.A318ACFF.Up2Date
+C:\Users\user1\Desktop\project-dotnet\Ophthalmologist\Ophthalmologist.Service\obj\Debug\net8.0\Ophthalmologist.Service.dll
+C:\Users\user1\Desktop\project-dotnet\Ophthalmologist\Ophthalmologist.Service\obj\Debug\net8.0\refint\Ophthalmologist.Service.dll
+C:\Users\user1\Desktop\project-dotnet\Ophthalmologist\Ophthalmologist.Service\obj\Debug\net8.0\Ophthalmologist.Service.pdb
+C:\Users\user1\Desktop\project-dotnet\Ophthalmologist\Ophthalmologist.Service\obj\Debug\net8.0\ref\Ophthalmologist.Service.dll

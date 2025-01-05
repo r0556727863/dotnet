@@ -1,0 +1,34 @@
+C:\Users\user1\Desktop\תכנות שנה ו\דוטנט-פרויקט\Ophthalmologist\Ophthalmologist.Data\bin\Debug\net8.0\Ophthalmologist.Data.deps.json
+C:\Users\user1\Desktop\תכנות שנה ו\דוטנט-פרויקט\Ophthalmologist\Ophthalmologist.Data\bin\Debug\net8.0\Ophthalmologist.Data.runtimeconfig.json
+C:\Users\user1\Desktop\תכנות שנה ו\דוטנט-פרויקט\Ophthalmologist\Ophthalmologist.Data\bin\Debug\net8.0\Ophthalmologist.Data.dll
+C:\Users\user1\Desktop\תכנות שנה ו\דוטנט-פרויקט\Ophthalmologist\Ophthalmologist.Data\bin\Debug\net8.0\Ophthalmologist.Data.pdb
+C:\Users\user1\Desktop\תכנות שנה ו\דוטנט-פרויקט\Ophthalmologist\Ophthalmologist.Data\bin\Debug\net8.0\Ophthalmologist.Core.dll
+C:\Users\user1\Desktop\תכנות שנה ו\דוטנט-פרויקט\Ophthalmologist\Ophthalmologist.Data\bin\Debug\net8.0\Ophthalmologist.Core.pdb
+C:\Users\user1\Desktop\תכנות שנה ו\דוטנט-פרויקט\Ophthalmologist\Ophthalmologist.Data\obj\Debug\net8.0\Ophthalmologist.Data.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\תכנות שנה ו\דוטנט-פרויקט\Ophthalmologist\Ophthalmologist.Data\obj\Debug\net8.0\Ophthalmologist.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\תכנות שנה ו\דוטנט-פרויקט\Ophthalmologist\Ophthalmologist.Data\obj\Debug\net8.0\Ophthalmologist.Data.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\תכנות שנה ו\דוטנט-פרויקט\Ophthalmologist\Ophthalmologist.Data\obj\Debug\net8.0\Ophthalmologist.Data.AssemblyInfo.cs
+C:\Users\user1\Desktop\תכנות שנה ו\דוטנט-פרויקט\Ophthalmologist\Ophthalmologist.Data\obj\Debug\net8.0\Ophthalmologist.Data.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\תכנות שנה ו\דוטנט-פרויקט\Ophthalmologist\Ophthalmologist.Data\obj\Debug\net8.0\Ophthalm.12D35568.Up2Date
+C:\Users\user1\Desktop\תכנות שנה ו\דוטנט-פרויקט\Ophthalmologist\Ophthalmologist.Data\obj\Debug\net8.0\Ophthalmologist.Data.dll
+C:\Users\user1\Desktop\תכנות שנה ו\דוטנט-פרויקט\Ophthalmologist\Ophthalmologist.Data\obj\Debug\net8.0\refint\Ophthalmologist.Data.dll
+C:\Users\user1\Desktop\תכנות שנה ו\דוטנט-פרויקט\Ophthalmologist\Ophthalmologist.Data\obj\Debug\net8.0\Ophthalmologist.Data.pdb
+C:\Users\user1\Desktop\תכנות שנה ו\דוטנט-פרויקט\Ophthalmologist\Ophthalmologist.Data\obj\Debug\net8.0\Ophthalmologist.Data.genruntimeconfig.cache
+C:\Users\user1\Desktop\תכנות שנה ו\דוטנט-פרויקט\Ophthalmologist\Ophthalmologist.Data\obj\Debug\net8.0\ref\Ophthalmologist.Data.dll
+C:\Users\user1\Desktop\project-dotnet\Ophthalmologist\Ophthalmologist.Data\bin\Debug\net8.0\Ophthalmologist.Data.deps.json
+C:\Users\user1\Desktop\project-dotnet\Ophthalmologist\Ophthalmologist.Data\bin\Debug\net8.0\Ophthalmologist.Data.runtimeconfig.json
+C:\Users\user1\Desktop\project-dotnet\Ophthalmologist\Ophthalmologist.Data\bin\Debug\net8.0\Ophthalmologist.Data.dll
+C:\Users\user1\Desktop\project-dotnet\Ophthalmologist\Ophthalmologist.Data\bin\Debug\net8.0\Ophthalmologist.Data.pdb
+C:\Users\user1\Desktop\project-dotnet\Ophthalmologist\Ophthalmologist.Data\bin\Debug\net8.0\Ophthalmologist.Core.dll
+C:\Users\user1\Desktop\project-dotnet\Ophthalmologist\Ophthalmologist.Data\bin\Debug\net8.0\Ophthalmologist.Core.pdb
+C:\Users\user1\Desktop\project-dotnet\Ophthalmologist\Ophthalmologist.Data\obj\Debug\net8.0\Ophthalmologist.Data.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\project-dotnet\Ophthalmologist\Ophthalmologist.Data\obj\Debug\net8.0\Ophthalmologist.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\project-dotnet\Ophthalmologist\Ophthalmologist.Data\obj\Debug\net8.0\Ophthalmologist.Data.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\project-dotnet\Ophthalmologist\Ophthalmologist.Data\obj\Debug\net8.0\Ophthalmologist.Data.AssemblyInfo.cs
+C:\Users\user1\Desktop\project-dotnet\Ophthalmologist\Ophthalmologist.Data\obj\Debug\net8.0\Ophthalmologist.Data.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\project-dotnet\Ophthalmologist\Ophthalmologist.Data\obj\Debug\net8.0\Ophthalm.12D35568.Up2Date
+C:\Users\user1\Desktop\project-dotnet\Ophthalmologist\Ophthalmologist.Data\obj\Debug\net8.0\Ophthalmologist.Data.dll
+C:\Users\user1\Desktop\project-dotnet\Ophthalmologist\Ophthalmologist.Data\obj\Debug\net8.0\refint\Ophthalmologist.Data.dll
+C:\Users\user1\Desktop\project-dotnet\Ophthalmologist\Ophthalmologist.Data\obj\Debug\net8.0\Ophthalmologist.Data.pdb
+C:\Users\user1\Desktop\project-dotnet\Ophthalmologist\Ophthalmologist.Data\obj\Debug\net8.0\Ophthalmologist.Data.genruntimeconfig.cache
+C:\Users\user1\Desktop\project-dotnet\Ophthalmologist\Ophthalmologist.Data\obj\Debug\net8.0\ref\Ophthalmologist.Data.dll

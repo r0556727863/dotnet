@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Ophthalmologist.Service/1.0.0": {
+        "dependencies": {
+          "Ophthalmologist.Core": "1.0.0"
+        },
+        "runtime": {
+          "Ophthalmologist.Service.dll": {}
+        }
+      },
+      "Ophthalmologist.Core/1.0.0": {
+        "runtime": {
+          "Ophthalmologist.Core.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ophthalmologist.Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Ophthalmologist.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

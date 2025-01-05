@@ -1,0 +1,22 @@
+C:\Users\user1\Desktop\תכנות שנה ו\דוטנט-פרויקט\Ophthalmologist\Ophthalmologist.Core\bin\Debug\net8.0\Ophthalmologist.Core.deps.json
+C:\Users\user1\Desktop\תכנות שנה ו\דוטנט-פרויקט\Ophthalmologist\Ophthalmologist.Core\bin\Debug\net8.0\Ophthalmologist.Core.dll
+C:\Users\user1\Desktop\תכנות שנה ו\דוטנט-פרויקט\Ophthalmologist\Ophthalmologist.Core\bin\Debug\net8.0\Ophthalmologist.Core.pdb
+C:\Users\user1\Desktop\תכנות שנה ו\דוטנט-פרויקט\Ophthalmologist\Ophthalmologist.Core\obj\Debug\net8.0\Ophthalmologist.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\תכנות שנה ו\דוטנט-פרויקט\Ophthalmologist\Ophthalmologist.Core\obj\Debug\net8.0\Ophthalmologist.Core.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\תכנות שנה ו\דוטנט-פרויקט\Ophthalmologist\Ophthalmologist.Core\obj\Debug\net8.0\Ophthalmologist.Core.AssemblyInfo.cs
+C:\Users\user1\Desktop\תכנות שנה ו\דוטנט-פרויקט\Ophthalmologist\Ophthalmologist.Core\obj\Debug\net8.0\Ophthalmologist.Core.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\תכנות שנה ו\דוטנט-פרויקט\Ophthalmologist\Ophthalmologist.Core\obj\Debug\net8.0\Ophthalmologist.Core.dll
+C:\Users\user1\Desktop\תכנות שנה ו\דוטנט-פרויקט\Ophthalmologist\Ophthalmologist.Core\obj\Debug\net8.0\refint\Ophthalmologist.Core.dll
+C:\Users\user1\Desktop\תכנות שנה ו\דוטנט-פרויקט\Ophthalmologist\Ophthalmologist.Core\obj\Debug\net8.0\Ophthalmologist.Core.pdb
+C:\Users\user1\Desktop\תכנות שנה ו\דוטנט-פרויקט\Ophthalmologist\Ophthalmologist.Core\obj\Debug\net8.0\ref\Ophthalmologist.Core.dll
+C:\Users\user1\Desktop\project-dotnet\Ophthalmologist\Ophthalmologist.Core\bin\Debug\net8.0\Ophthalmologist.Core.deps.json
+C:\Users\user1\Desktop\project-dotnet\Ophthalmologist\Ophthalmologist.Core\bin\Debug\net8.0\Ophthalmologist.Core.dll
+C:\Users\user1\Desktop\project-dotnet\Ophthalmologist\Ophthalmologist.Core\bin\Debug\net8.0\Ophthalmologist.Core.pdb
+C:\Users\user1\Desktop\project-dotnet\Ophthalmologist\Ophthalmologist.Core\obj\Debug\net8.0\Ophthalmologist.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\project-dotnet\Ophthalmologist\Ophthalmologist.Core\obj\Debug\net8.0\Ophthalmologist.Core.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\project-dotnet\Ophthalmologist\Ophthalmologist.Core\obj\Debug\net8.0\Ophthalmologist.Core.AssemblyInfo.cs
+C:\Users\user1\Desktop\project-dotnet\Ophthalmologist\Ophthalmologist.Core\obj\Debug\net8.0\Ophthalmologist.Core.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\project-dotnet\Ophthalmologist\Ophthalmologist.Core\obj\Debug\net8.0\Ophthalmologist.Core.dll
+C:\Users\user1\Desktop\project-dotnet\Ophthalmologist\Ophthalmologist.Core\obj\Debug\net8.0\refint\Ophthalmologist.Core.dll
+C:\Users\user1\Desktop\project-dotnet\Ophthalmologist\Ophthalmologist.Core\obj\Debug\net8.0\Ophthalmologist.Core.pdb
+C:\Users\user1\Desktop\project-dotnet\Ophthalmologist\Ophthalmologist.Core\obj\Debug\net8.0\ref\Ophthalmologist.Core.dll
