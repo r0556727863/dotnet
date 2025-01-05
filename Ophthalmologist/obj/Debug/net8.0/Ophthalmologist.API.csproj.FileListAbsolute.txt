@@ -284,3 +284,4 @@ C:\Users\user1\Desktop\project-dotnet\Ophthalmologist\Ophthalmologist\obj\Debug\
 C:\Users\user1\Desktop\project-dotnet\Ophthalmologist\Ophthalmologist\obj\Debug\net8.0\Ophthalmologist.API.pdb
 C:\Users\user1\Desktop\project-dotnet\Ophthalmologist\Ophthalmologist\obj\Debug\net8.0\Ophthalmologist.API.genruntimeconfig.cache
 C:\Users\user1\Desktop\project-dotnet\Ophthalmologist\Ophthalmologist\obj\Debug\net8.0\ref\Ophthalmologist.API.dll
+C:\Users\user1\Desktop\project-dotnet\Ophthalmologist\Ophthalmologist\obj\Debug\net8.0\Ophthalmologist.API.sourcelink.json

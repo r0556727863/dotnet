@@ -28,3 +28,4 @@ C:\Users\user1\Desktop\project-dotnet\Ophthalmologist\Ophthalmologist.Service\ob
 C:\Users\user1\Desktop\project-dotnet\Ophthalmologist\Ophthalmologist.Service\obj\Debug\net8.0\refint\Ophthalmologist.Service.dll
 C:\Users\user1\Desktop\project-dotnet\Ophthalmologist\Ophthalmologist.Service\obj\Debug\net8.0\Ophthalmologist.Service.pdb
 C:\Users\user1\Desktop\project-dotnet\Ophthalmologist\Ophthalmologist.Service\obj\Debug\net8.0\ref\Ophthalmologist.Service.dll
+C:\Users\user1\Desktop\project-dotnet\Ophthalmologist\Ophthalmologist.Service\obj\Debug\net8.0\Ophthalmologist.Service.sourcelink.json

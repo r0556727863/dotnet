@@ -3,20 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\user1\\Desktop\\project-dotnet\\Ophthalmologist\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BE92000D-2644-416A-B233-8142C82A1F3A}|Ophthalmologist.Core\\Ophthalmologist.Core.csproj|c:\\users\\user1\\desktop\\project-dotnet\\ophthalmologist\\ophthalmologist.core\\repositories\\imanagerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE92000D-2644-416A-B233-8142C82A1F3A}|Ophthalmologist.Core\\Ophthalmologist.Core.csproj|solutionrelative:ophthalmologist.core\\repositories\\imanagerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user1\\Desktop\\project-dotnet\\Ophthalmologist\\Ophthalmologist.Data\\Migrations\\20250105205514_up.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Ophthalmologist.Data\\Migrations\\20250105205514_up.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{37AC66AC-1A5F-4ED4-A947-3349DDBBF9CE}|Ophthalmologist.Data\\Ophthalmologist.Data.csproj|c:\\users\\user1\\desktop\\project-dotnet\\ophthalmologist\\ophthalmologist.data\\repositories\\managerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{37AC66AC-1A5F-4ED4-A947-3349DDBBF9CE}|Ophthalmologist.Data\\Ophthalmologist.Data.csproj|solutionrelative:ophthalmologist.data\\repositories\\managerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user1\\Desktop\\project-dotnet\\Ophthalmologist\\UnitTests\\UnitTests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UnitTests\\UnitTests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2DF389A-27E7-40AC-8E8E-EE40724B6D80}|Ophthalmologist\\Ophthalmologist.API.csproj|c:\\users\\user1\\desktop\\project-dotnet\\ophthalmologist\\ophthalmologist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2DF389A-27E7-40AC-8E8E-EE40724B6D80}|Ophthalmologist\\Ophthalmologist.API.csproj|solutionrelative:ophthalmologist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{37AC66AC-1A5F-4ED4-A947-3349DDBBF9CE}|Ophthalmologist.Data\\Ophthalmologist.Data.csproj|c:\\users\\user1\\desktop\\project-dotnet\\ophthalmologist\\ophthalmologist.data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{37AC66AC-1A5F-4ED4-A947-3349DDBBF9CE}|Ophthalmologist.Data\\Ophthalmologist.Data.csproj|solutionrelative:ophthalmologist.data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{49AC0445-F2E1-432C-ABEA-F023A7420930}|UnitTests\\UnitTests.csproj|c:\\users\\user1\\desktop\\project-dotnet\\ophthalmologist\\unittests\\unittests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{49AC0445-F2E1-432C-ABEA-F023A7420930}|UnitTests\\UnitTests.csproj|solutionrelative:unittests\\unittests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{37AC66AC-1A5F-4ED4-A947-3349DDBBF9CE}|Ophthalmologist.Data\\Ophthalmologist.Data.csproj|c:\\users\\user1\\desktop\\project-dotnet\\ophthalmologist\\ophthalmologist.data\\repositories\\managerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37AC66AC-1A5F-4ED4-A947-3349DDBBF9CE}|Ophthalmologist.Data\\Ophthalmologist.Data.csproj|solutionrelative:ophthalmologist.data\\repositories\\managerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE92000D-2644-416A-B233-8142C82A1F3A}|Ophthalmologist.Core\\Ophthalmologist.Core.csproj|c:\\users\\user1\\desktop\\project-dotnet\\ophthalmologist\\ophthalmologist.core\\repositories\\imanagerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE92000D-2644-416A-B233-8142C82A1F3A}|Ophthalmologist.Core\\Ophthalmologist.Core.csproj|solutionrelative:ophthalmologist.core\\repositories\\imanagerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BE92000D-2644-416A-B233-8142C82A1F3A}|Ophthalmologist.Core\\Ophthalmologist.Core.csproj|c:\\users\\user1\\desktop\\project-dotnet\\ophthalmologist\\ophthalmologist.core\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,58 +43,78 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "IManagerRepository.cs",
-              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\project-dotnet\\Ophthalmologist\\Ophthalmologist.Core\\Repositories\\IManagerRepository.cs",
-              "RelativeDocumentMoniker": "Ophthalmologist.Core\\Repositories\\IManagerRepository.cs",
-              "ToolTip": "C:\\Users\\user1\\Desktop\\project-dotnet\\Ophthalmologist\\Ophthalmologist.Core\\Repositories\\IManagerRepository.cs",
-              "RelativeToolTip": "Ophthalmologist.Core\\Repositories\\IManagerRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAADAAAAAAAAAA==",
+              "Title": "20250105205514_up.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\project-dotnet\\Ophthalmologist\\Ophthalmologist.Data\\Migrations\\20250105205514_up.cs",
+              "RelativeDocumentMoniker": "Ophthalmologist.Data\\Migrations\\20250105205514_up.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\project-dotnet\\Ophthalmologist\\Ophthalmologist.Data\\Migrations\\20250105205514_up.cs",
+              "RelativeToolTip": "Ophthalmologist.Data\\Migrations\\20250105205514_up.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T23:50:13.327Z",
+              "WhenOpened": "2025-01-05T20:55:14.236Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "UnitTests.csproj",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\project-dotnet\\Ophthalmologist\\UnitTests\\UnitTests.csproj",
+              "RelativeDocumentMoniker": "UnitTests\\UnitTests.csproj",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\project-dotnet\\Ophthalmologist\\UnitTests\\UnitTests.csproj",
+              "RelativeToolTip": "UnitTests\\UnitTests.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-05T20:53:50.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\project-dotnet\\Ophthalmologist\\Ophthalmologist\\Program.cs",
+              "RelativeDocumentMoniker": "Ophthalmologist\\Program.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\project-dotnet\\Ophthalmologist\\Ophthalmologist\\Program.cs",
+              "RelativeToolTip": "Ophthalmologist\\Program.cs",
+              "ViewState": "AgIAABQAAABgmZmZmRkmwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T20:45:54.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IManagerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\project-dotnet\\Ophthalmologist\\Ophthalmologist.Core\\Repositories\\IManagerRepository.cs",
+              "RelativeDocumentMoniker": "Ophthalmologist.Core\\Repositories\\IManagerRepository.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\project-dotnet\\Ophthalmologist\\Ophthalmologist.Core\\Repositories\\IManagerRepository.cs",
+              "RelativeToolTip": "Ophthalmologist.Core\\Repositories\\IManagerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T23:50:13.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "ManagerRepository.cs",
               "DocumentMoniker": "C:\\Users\\user1\\Desktop\\project-dotnet\\Ophthalmologist\\Ophthalmologist.Data\\Repositories\\ManagerRepository.cs",
               "RelativeDocumentMoniker": "Ophthalmologist.Data\\Repositories\\ManagerRepository.cs",
               "ToolTip": "C:\\Users\\user1\\Desktop\\project-dotnet\\Ophthalmologist\\Ophthalmologist.Data\\Repositories\\ManagerRepository.cs",
               "RelativeToolTip": "Ophthalmologist.Data\\Repositories\\ManagerRepository.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAgwB0AAAADAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T23:50:00.154Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-26T23:50:00.154Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "DataContext.cs",
               "DocumentMoniker": "C:\\Users\\user1\\Desktop\\project-dotnet\\Ophthalmologist\\Ophthalmologist.Data\\DataContext.cs",
               "RelativeDocumentMoniker": "Ophthalmologist.Data\\DataContext.cs",
               "ToolTip": "C:\\Users\\user1\\Desktop\\project-dotnet\\Ophthalmologist\\Ophthalmologist.Data\\DataContext.cs",
               "RelativeToolTip": "Ophthalmologist.Data\\DataContext.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAADezMzMzAwswBUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T23:33:18.585Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-26T23:33:18.585Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UnitTests",
-              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\project-dotnet\\Ophthalmologist\\UnitTests\\UnitTests.csproj",
-              "RelativeDocumentMoniker": "UnitTests\\UnitTests.csproj",
-              "ToolTip": "C:\\Users\\user1\\Desktop\\project-dotnet\\Ophthalmologist\\UnitTests\\UnitTests.csproj",
-              "RelativeToolTip": "UnitTests\\UnitTests.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-26T23:24:24.128Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Patient.cs",
               "DocumentMoniker": "C:\\Users\\user1\\Desktop\\project-dotnet\\Ophthalmologist\\Ophthalmologist.Core\\Models\\Patient.cs",
               "RelativeDocumentMoniker": "Ophthalmologist.Core\\Models\\Patient.cs",
@@ -94,8 +122,7 @@
               "RelativeToolTip": "Ophthalmologist.Core\\Models\\Patient.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAiwB8AAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T22:28:01.87Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-26T22:28:01.87Z"
             }
           ]
         }

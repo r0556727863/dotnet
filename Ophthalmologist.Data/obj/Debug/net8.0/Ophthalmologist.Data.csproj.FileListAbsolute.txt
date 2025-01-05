@@ -32,3 +32,4 @@ C:\Users\user1\Desktop\project-dotnet\Ophthalmologist\Ophthalmologist.Data\obj\D
 C:\Users\user1\Desktop\project-dotnet\Ophthalmologist\Ophthalmologist.Data\obj\Debug\net8.0\Ophthalmologist.Data.pdb
 C:\Users\user1\Desktop\project-dotnet\Ophthalmologist\Ophthalmologist.Data\obj\Debug\net8.0\Ophthalmologist.Data.genruntimeconfig.cache
 C:\Users\user1\Desktop\project-dotnet\Ophthalmologist\Ophthalmologist.Data\obj\Debug\net8.0\ref\Ophthalmologist.Data.dll
+C:\Users\user1\Desktop\project-dotnet\Ophthalmologist\Ophthalmologist.Data\obj\Debug\net8.0\Ophthalmologist.Data.sourcelink.json

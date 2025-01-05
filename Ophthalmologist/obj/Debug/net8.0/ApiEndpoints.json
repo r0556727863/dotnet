@@ -9,7 +9,7 @@
     "Parameters": [],
     "ReturnTypes": [
       {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[Ophthalmologist.Appointment, Ophthalmologist.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[Ophthalmologist.Core.Models.Appointment, Ophthalmologist.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -29,7 +29,7 @@
     "Parameters": [
       {
         "Name": "appointment",
-        "Type": "Ophthalmologist.Appointment",
+        "Type": "Ophthalmologist.Core.Models.Appointment",
         "IsRequired": true
       }
     ],
@@ -57,7 +57,7 @@
     ],
     "ReturnTypes": [
       {
-        "Type": "Ophthalmologist.Appointment",
+        "Type": "Ophthalmologist.Core.Models.Appointment",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -82,7 +82,7 @@
       },
       {
         "Name": "appointment",
-        "Type": "Ophthalmologist.Appointment",
+        "Type": "Ophthalmologist.Core.Models.Appointment",
         "IsRequired": true
       }
     ],
@@ -126,7 +126,7 @@
     "Parameters": [],
     "ReturnTypes": [
       {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[Ophthalmologist.Doctor, Ophthalmologist.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[Ophthalmologist.Core.Models.Doctor, Ophthalmologist.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -146,7 +146,7 @@
     "Parameters": [
       {
         "Name": "doctor",
-        "Type": "Ophthalmologist.Doctor",
+        "Type": "Ophthalmologist.Core.Models.Doctor",
         "IsRequired": true
       }
     ],
@@ -174,7 +174,7 @@
     ],
     "ReturnTypes": [
       {
-        "Type": "Ophthalmologist.Doctor",
+        "Type": "Ophthalmologist.Core.Models.Doctor",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -199,7 +199,7 @@
       },
       {
         "Name": "doctor",
-        "Type": "Ophthalmologist.Doctor",
+        "Type": "Ophthalmologist.Core.Models.Doctor",
         "IsRequired": true
       }
     ],
@@ -243,7 +243,7 @@
     "Parameters": [],
     "ReturnTypes": [
       {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[Ophthalmologist.Patient, Ophthalmologist.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[Ophthalmologist.Core.Models.Patient, Ophthalmologist.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -263,7 +263,7 @@
     "Parameters": [
       {
         "Name": "patient",
-        "Type": "Ophthalmologist.Patient",
+        "Type": "Ophthalmologist.Core.Models.Patient",
         "IsRequired": true
       }
     ],
@@ -291,7 +291,7 @@
     ],
     "ReturnTypes": [
       {
-        "Type": "Ophthalmologist.Patient",
+        "Type": "Ophthalmologist.Core.Models.Patient",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -316,7 +316,7 @@
       },
       {
         "Name": "patient",
-        "Type": "Ophthalmologist.Patient",
+        "Type": "Ophthalmologist.Core.Models.Patient",
         "IsRequired": true
       }
     ],

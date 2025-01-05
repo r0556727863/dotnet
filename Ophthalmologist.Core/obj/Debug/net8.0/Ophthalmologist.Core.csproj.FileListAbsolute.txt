@@ -20,3 +20,4 @@ C:\Users\user1\Desktop\project-dotnet\Ophthalmologist\Ophthalmologist.Core\obj\D
 C:\Users\user1\Desktop\project-dotnet\Ophthalmologist\Ophthalmologist.Core\obj\Debug\net8.0\refint\Ophthalmologist.Core.dll
 C:\Users\user1\Desktop\project-dotnet\Ophthalmologist\Ophthalmologist.Core\obj\Debug\net8.0\Ophthalmologist.Core.pdb
 C:\Users\user1\Desktop\project-dotnet\Ophthalmologist\Ophthalmologist.Core\obj\Debug\net8.0\ref\Ophthalmologist.Core.dll
+C:\Users\user1\Desktop\project-dotnet\Ophthalmologist\Ophthalmologist.Core\obj\Debug\net8.0\Ophthalmologist.Core.sourcelink.json

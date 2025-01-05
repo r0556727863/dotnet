@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ophthalmologist.Data")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0ebceea1694bc122ecd867a846e7ec908ff0b37e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ophthalmologist.Data")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ophthalmologist.Data")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
